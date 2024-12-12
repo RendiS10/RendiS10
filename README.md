@@ -9,6 +9,6 @@ Perkenalkan nama saya **Rendi Sutendi**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=radical)
 <br/>
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RendiS10&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RendiS10&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
   
