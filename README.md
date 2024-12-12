@@ -6,4 +6,4 @@ Perkenalkan nama saya **Rendi Sutendi**.<br>
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RendiS10&theme=radical&border=141E61)](https://git.io/streak-stats)
 <br/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RendiS10&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RendiS10&show_icons=true&theme=radical&border=141E61&include_all_commits=true&count_private=true"/>
