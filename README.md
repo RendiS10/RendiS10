@@ -1,155 +1,125 @@
-<h1 align="center">Halo 👋, Saya Rendi Sutendi</h1>
+<h1 align="center">Hi, I'm Rendi Sutendi 👋</h1>
 
 <p align="center">
-Fullstack Developer • Mobile Developer • Backend Engineer
+  <b>Fullstack & Mobile Developer</b> · membangun sistem yang aman, teruji, dan siap berkembang.
 </p>
 
 <p align="center">
-Berfokus pada pengembangan aplikasi web, mobile, dan backend yang scalable, aman, serta mudah dipelihara dalam jangka panjang.
+  <a href="https://github.com/RendiS10">
+    <img src="https://img.shields.io/badge/GitHub-RendiS10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rendi-sutendi-813a90270">
+    <img src="https://img.shields.io/badge/LinkedIn-Rendi%20Sutendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RendiS10&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
 ## 👨‍💻 Tentang Saya
 
-Saya adalah developer yang memiliki ketertarikan pada pengembangan sistem modern dengan fokus pada arsitektur yang baik, kualitas kode, keamanan aplikasi, dan pengalaman pengguna.
+Saya developer yang fokus membangun aplikasi **web, mobile, dan backend API** dengan perhatian pada arsitektur yang bersih, keamanan sejak tahap desain, dan kode yang mudah dipelihara.
 
-Berpengalaman dalam membangun aplikasi berbasis web, mobile, backend API, sistem autentikasi, integrasi layanan pihak ketiga, serta berbagai kebutuhan bisnis berbasis digital.
+Bagi saya, perangkat lunak yang baik bukan sekadar berjalan benar — tapi mudah diuji, dikembangkan, dan tumbuh seiring kebutuhan bisnis.
 
-Saya percaya bahwa perangkat lunak yang baik tidak hanya harus berjalan dengan benar, tetapi juga mudah dikembangkan, diuji, dan dipelihara seiring pertumbuhan kebutuhan bisnis.
-
----
-
-## 🚀 Fokus Keahlian
-
-* Fullstack Web Development
-* Mobile Application Development
-* Backend API Development
-* RESTful API Design
-* Authentication & Authorization
-* Payment & Transaction Flow
-* Software Architecture
-* Software Quality Assurance
-* Secure Development Practices
-* Performance Optimization
+- 🔭 Fokus utama: **Backend API & Fullstack Development**
+- 🌱 Sedang mendalami: arsitektur skalabel, performance tuning, dan secure development
+- 🤝 Terbuka untuk: web/mobile development, refactoring, open source, dan diskusi arsitektur
+- 📫 Kontak: lihat badge LinkedIn / GitHub di atas
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
-* Next.js
-* React.js
-* JavaScript
-* Tailwind CSS
-* Zustand
-* TanStack Query
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 
-### Mobile
+**Mobile**
 
-* Flutter
-* Dart
-* Riverpod
-* GoRouter
-* Dio
-* Freezed
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-3D5AFE?style=flat&logo=flutter&logoColor=white)
 
-### Backend
+**Backend**
 
-* Node.js
-* Express.js
-* Prisma ORM
-* PostgreSQL
-* Redis
-* BullMQ
-* Socket.IO
-* JWT
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### Tools & Workflow
+**Tools & Testing**
 
-* Git & GitHub
-* Docker
-* Swagger
-* Postman
-* Vite
-
-### Testing & Quality
-
-* Cypress
-* Mocha
-* Chai
-* Supertest
-* Flutter Test
-* Flutter Analyze
-
-### Security
-
-* Helmet
-* Rate Limiting
-* Input Validation
-* Secure Storage
-* Authentication & Authorization
-* Secure API Design
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
-## 📊 Statistik GitHub
+## 📌 Featured Projects
+
+> Ganti placeholder ini dengan 2–4 repo terbaikmu. Ini bagian paling penting — recruiter melihat bukti, bukan daftar skill.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Nama Project 1</h3>
+      <p align="center">
+        <a href="https://github.com/RendiS10/REPO-NAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendiS10&repo=REPO-NAME&theme=tokyonight" alt="Project 1"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nama Project 2</h3>
+      <p align="center">
+        <a href="https://github.com/RendiS10/REPO-NAME-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendiS10&repo=REPO-NAME-2&theme=tokyonight" alt="Project 2"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RendiS10&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendiS10&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RendiS10&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 Aktivitas Kontribusi
+## 💡 Prinsip Pengembangan
+
+- Mengutamakan kejelasan dan maintainability di atas kompleksitas
+- Keamanan dipikirkan sejak desain, bukan ditambal di akhir
+- Pengujian dan validasi sebelum masuk produksi
+- Berorientasi pada skalabilitas dan keberlanjutan jangka panjang
+
+---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=tokyo-night"/>
+  <i>"Membangun perangkat lunak bukan hanya tentang menyelesaikan masalah hari ini, tetapi juga menyiapkan solusi untuk kebutuhan masa depan."</i>
 </p>
-
----
-
-## 🏆 Pencapaian GitHub
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RendiS10&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 💡 Prinsip Dalam Pengembangan
-
-* Mengutamakan kualitas daripada kompleksitas
-* Menulis kode yang mudah dipahami dan dipelihara
-* Membangun sistem yang aman sejak tahap desain
-* Berorientasi pada skalabilitas dan keberlanjutan
-* Mengutamakan pengujian dan validasi sebelum produksi
-
----
-
-## 🤝 Terbuka Untuk Kolaborasi
-
-* Web Application Development
-* Mobile Application Development
-* Backend API Development
-* Open Source Project
-* Refactoring & Optimization
-* Software Architecture Discussion
-
----
-
-## 📫 Hubungi Saya
-
-* GitHub: https://github.com/RendiS10
-* LinkedIn: https://www.linkedin.com/in/rendi-sutendi-813a90270
-
----
-
-> "Membangun perangkat lunak bukan hanya tentang menyelesaikan masalah hari ini, tetapi juga mempersiapkan solusi untuk kebutuhan masa depan."
