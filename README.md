@@ -1,44 +1,41 @@
 <h1 align="center">Halo 👋, Saya Rendi Sutendi</h1>
 
 <p align="center">
-  Fullstack Developer • Mobile Developer • Backend Engineer
+Fullstack Developer • Mobile Developer • Backend Engineer
 </p>
 
 <p align="center">
-  Membangun aplikasi web, mobile, dan backend yang scalable, aman, dan siap digunakan di lingkungan produksi.
+Berfokus pada pengembangan aplikasi web, mobile, dan backend yang scalable, aman, serta mudah dipelihara dalam jangka panjang.
 </p>
 
 ---
 
 ## 👨‍💻 Tentang Saya
 
-Saya berfokus pada pengembangan aplikasi berbasis web, mobile, dan backend dengan pendekatan yang mengutamakan kualitas kode, keamanan, performa, serta kemudahan pengembangan jangka panjang.
+Saya adalah developer yang memiliki ketertarikan pada pengembangan sistem modern dengan fokus pada arsitektur yang baik, kualitas kode, keamanan aplikasi, dan pengalaman pengguna.
 
-Saat ini aktif mengembangkan berbagai sistem ecommerce, backend API, aplikasi mobile Flutter, serta platform bisnis yang membutuhkan integrasi pembayaran, autentikasi, notifikasi real-time, dan manajemen data berskala besar.
+Berpengalaman dalam membangun aplikasi berbasis web, mobile, backend API, sistem autentikasi, integrasi layanan pihak ketiga, serta berbagai kebutuhan bisnis berbasis digital.
 
----
-
-## 🚀 Yang Sedang Saya Kerjakan
-
-### HolyCat Ecosystem
-
-Pengembangan ekosistem aplikasi HolyCat yang mencakup:
-
-* HolyCat Commerce Platform
-* HolyCat Customer Mobile App (Flutter)
-* HolyCat Backend API
-* Wallet & Payment System
-* Order & Checkout Management
-* Authentication & User Management
-* Referral & Loyalty System
+Saya percaya bahwa perangkat lunak yang baik tidak hanya harus berjalan dengan benar, tetapi juga mudah dikembangkan, diuji, dan dipelihara seiring pertumbuhan kebutuhan bisnis.
 
 ---
 
-## 🛠️ Teknologi Utama
+## 🚀 Fokus Keahlian
 
-<table>
-<tr>
-<td>
+* Fullstack Web Development
+* Mobile Application Development
+* Backend API Development
+* RESTful API Design
+* Authentication & Authorization
+* Payment & Transaction Flow
+* Software Architecture
+* Software Quality Assurance
+* Secure Development Practices
+* Performance Optimization
+
+---
+
+## 🛠️ Teknologi yang Digunakan
 
 ### Frontend
 
@@ -49,9 +46,6 @@ Pengembangan ekosistem aplikasi HolyCat yang mencakup:
 * Zustand
 * TanStack Query
 
-</td>
-<td>
-
 ### Mobile
 
 * Flutter
@@ -61,12 +55,6 @@ Pengembangan ekosistem aplikasi HolyCat yang mencakup:
 * Dio
 * Freezed
 
-</td>
-</tr>
-
-<tr>
-<td>
-
 ### Backend
 
 * Node.js
@@ -75,22 +63,34 @@ Pengembangan ekosistem aplikasi HolyCat yang mencakup:
 * PostgreSQL
 * Redis
 * BullMQ
+* Socket.IO
+* JWT
 
-</td>
-<td>
+### Tools & Workflow
 
-### Quality & Security
+* Git & GitHub
+* Docker
+* Swagger
+* Postman
+* Vite
+
+### Testing & Quality
 
 * Cypress
 * Mocha
+* Chai
 * Supertest
-* Helmet
-* JWT
-* Secure API Design
+* Flutter Test
+* Flutter Analyze
 
-</td>
-</tr>
-</table>
+### Security
+
+* Helmet
+* Rate Limiting
+* Input Validation
+* Secure Storage
+* Authentication & Authorization
+* Secure API Design
 
 ---
 
@@ -116,7 +116,7 @@ Pengembangan ekosistem aplikasi HolyCat yang mencakup:
 
 ---
 
-## 🏆 GitHub Achievement
+## 🏆 Pencapaian GitHub
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RendiS10&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
@@ -124,31 +124,24 @@ Pengembangan ekosistem aplikasi HolyCat yang mencakup:
 
 ---
 
-## 🎯 Fokus Keahlian
+## 💡 Prinsip Dalam Pengembangan
 
-* Fullstack Web Development
-* Mobile App Development
-* Backend API Development
-* Ecommerce System
-* Authentication & Authorization
-* Payment Gateway Integration
-* Clean Architecture
-* Software Quality Assurance
-* Secure Development Practices
+* Mengutamakan kualitas daripada kompleksitas
+* Menulis kode yang mudah dipahami dan dipelihara
+* Membangun sistem yang aman sejak tahap desain
+* Berorientasi pada skalabilitas dan keberlanjutan
+* Mengutamakan pengujian dan validasi sebelum produksi
 
 ---
 
-## 🤝 Kolaborasi
+## 🤝 Terbuka Untuk Kolaborasi
 
-Terbuka untuk kolaborasi pada:
-
-* Website dan Web Application
-* Flutter Mobile Application
+* Web Application Development
+* Mobile Application Development
 * Backend API Development
-* Ecommerce Platform
-* Payment Integration
-* Refactoring dan Optimasi Sistem
 * Open Source Project
+* Refactoring & Optimization
+* Software Architecture Discussion
 
 ---
 
@@ -159,4 +152,4 @@ Terbuka untuk kolaborasi pada:
 
 ---
 
-> "Menulis kode bukan hanya membuat fitur berjalan, tetapi membangun sistem yang dapat berkembang dan dipelihara dalam jangka panjang."
+> "Membangun perangkat lunak bukan hanya tentang menyelesaikan masalah hari ini, tetapi juga mempersiapkan solusi untuk kebutuhan masa depan."
