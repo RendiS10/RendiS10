@@ -67,24 +67,27 @@ Bagi saya, perangkat lunak yang baik bukan sekadar berjalan benar — tapi mudah
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendiS10&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RendiS10&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=RendiS10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
+
+## 📈 Aktivitas Kontribusi
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ## 💡 Prinsip Pengembangan
 
