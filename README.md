@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Rendi Sutendi</h1>
 
 <p align="center">
-Fullstack Developer • Mobile Developer • Backend Engineer
+Fullstack Developer • Mobile Developer
 </p>
 
 <p align="center">
