@@ -69,24 +69,19 @@ Bagi saya, perangkat lunak yang baik bukan sekadar berjalan benar — tapi mudah
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+## 📈 Aktivitas GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
+Aktif berkontribusi di berbagai repository, termasuk pengembangan web, mobile, backend API, testing, dan integrasi sistem.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RendiS10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+- 1,000+ contributions dalam setahun terakhir
+- Berkontribusi pada 30+ repository
+- Fokus kontribusi: commits, pull requests, refactoring, dan pengembangan fitur
 ---
 
 ## 📈 Aktivitas Kontribusi
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 💡 Prinsip Pengembangan
