@@ -67,31 +67,6 @@ Bagi saya, perangkat lunak yang baik bukan sekadar berjalan benar — tapi mudah
 
 ---
 
-## 📌 Featured Projects
-
-> Ganti placeholder ini dengan 2–4 repo terbaikmu. Ini bagian paling penting — recruiter melihat bukti, bukan daftar skill.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nama Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/RendiS10/REPO-NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendiS10&repo=REPO-NAME&theme=tokyonight" alt="Project 1"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nama Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/RendiS10/REPO-NAME-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendiS10&repo=REPO-NAME-2&theme=tokyonight" alt="Project 2"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Statistics
