@@ -1,47 +1,44 @@
 <h1 align="center">Halo 👋, Saya Rendi Sutendi</h1>
 
 <p align="center">
-Fullstack Developer • Mobile Developer
+  Fullstack Developer • Mobile Developer • Backend Engineer
 </p>
 
 <p align="center">
-Membangun aplikasi web, mobile, dan backend yang aman, scalable, serta siap digunakan di lingkungan produksi.
+  Membangun aplikasi web, mobile, dan backend yang scalable, aman, dan siap digunakan di lingkungan produksi.
 </p>
 
 ---
 
-## 🚀 Tentang Saya
+## 👨‍💻 Tentang Saya
 
-Saya adalah seorang developer yang berfokus pada pengembangan sistem berbasis web, mobile, dan backend dengan pendekatan yang mengutamakan:
+Saya berfokus pada pengembangan aplikasi berbasis web, mobile, dan backend dengan pendekatan yang mengutamakan kualitas kode, keamanan, performa, serta kemudahan pengembangan jangka panjang.
 
-* Arsitektur yang terstruktur dan mudah dikembangkan
-* Keamanan aplikasi dan validasi data
-* Kualitas kode dan maintainability
-* Performa dan pengalaman pengguna
-* Integrasi API dan sistem pembayaran
-* Pengembangan aplikasi skala bisnis dan ecommerce
-
-Saat ini saya aktif mengembangkan berbagai proyek yang mencakup frontend, backend, mobile app, API, serta sistem pendukung bisnis lainnya.
+Saat ini aktif mengembangkan berbagai sistem ecommerce, backend API, aplikasi mobile Flutter, serta platform bisnis yang membutuhkan integrasi pembayaran, autentikasi, notifikasi real-time, dan manajemen data berskala besar.
 
 ---
 
-## 🏗️ Fokus Pengembangan
+## 🚀 Yang Sedang Saya Kerjakan
 
-Beberapa area yang saat ini menjadi fokus saya:
+### HolyCat Ecosystem
 
-* Aplikasi Web Modern
-* Mobile App dengan Flutter
-* Backend API dan Integrasi Sistem
-* Ecommerce dan Payment Flow
-* Authentication & Authorization
-* Wallet dan Loyalty System
-* Clean Architecture
-* Software Quality Assurance
-* Secure Development
+Pengembangan ekosistem aplikasi HolyCat yang mencakup:
+
+* HolyCat Commerce Platform
+* HolyCat Customer Mobile App (Flutter)
+* HolyCat Backend API
+* Wallet & Payment System
+* Order & Checkout Management
+* Authentication & User Management
+* Referral & Loyalty System
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi Utama
+
+<table>
+<tr>
+<td>
 
 ### Frontend
 
@@ -52,6 +49,9 @@ Beberapa area yang saat ini menjadi fokus saya:
 * Zustand
 * TanStack Query
 
+</td>
+<td>
+
 ### Mobile
 
 * Flutter
@@ -61,6 +61,12 @@ Beberapa area yang saat ini menjadi fokus saya:
 * Dio
 * Freezed
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ### Backend
 
 * Node.js
@@ -69,46 +75,35 @@ Beberapa area yang saat ini menjadi fokus saya:
 * PostgreSQL
 * Redis
 * BullMQ
-* Socket.IO
-* JWT Authentication
 
-### DevOps & Tools
+</td>
+<td>
 
-* Docker
-* Git & GitHub
-* Swagger
-* Postman
-* Vite
-
-### Testing & Quality
+### Quality & Security
 
 * Cypress
 * Mocha
-* Chai
 * Supertest
-* Flutter Test
-* Flutter Analyze
-
-### Security
-
 * Helmet
-* Rate Limiting
-* Input Validation
-* Authentication & Authorization
-* Secure Storage
+* JWT
 * Secure API Design
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Statistik GitHub
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RendiS10&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=RendiS10&theme=tokyonight"/>
 </p>
 
 ---
@@ -116,30 +111,42 @@ Beberapa area yang saat ini menjadi fokus saya:
 ## 📈 Aktivitas Kontribusi
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RendiS10&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 💡 Prinsip Dalam Pengembangan
+## 🏆 GitHub Achievement
 
-* Menulis kode yang mudah dipahami dan dipelihara
-* Mengutamakan keamanan sejak tahap desain
-* Membangun solusi yang scalable dan berkelanjutan
-* Menghindari kompleksitas yang tidak diperlukan
-* Berfokus pada kualitas, bukan hanya kecepatan
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RendiS10&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-## 🤝 Terbuka Untuk Kolaborasi
+## 🎯 Fokus Keahlian
 
-Saya terbuka untuk berdiskusi maupun berkolaborasi dalam:
+* Fullstack Web Development
+* Mobile App Development
+* Backend API Development
+* Ecommerce System
+* Authentication & Authorization
+* Payment Gateway Integration
+* Clean Architecture
+* Software Quality Assurance
+* Secure Development Practices
 
-* Pengembangan Website
-* Aplikasi Mobile Flutter
-* Backend API
-* Sistem Ecommerce
-* Integrasi Payment Gateway
+---
+
+## 🤝 Kolaborasi
+
+Terbuka untuk kolaborasi pada:
+
+* Website dan Web Application
+* Flutter Mobile Application
+* Backend API Development
+* Ecommerce Platform
+* Payment Integration
 * Refactoring dan Optimasi Sistem
 * Open Source Project
 
@@ -147,9 +154,9 @@ Saya terbuka untuk berdiskusi maupun berkolaborasi dalam:
 
 ## 📫 Hubungi Saya
 
-* GitHub : https://github.com/RendiS10
-* LinkedIn : https://www.linkedin.com/in/rendi-sutendi-813a90270
+* GitHub: https://github.com/RendiS10
+* LinkedIn: https://www.linkedin.com/in/rendi-sutendi-813a90270
 
 ---
 
-> "Teknologi bukan hanya tentang membuat sesuatu bekerja, tetapi tentang membangun sesuatu yang dapat terus berkembang."
+> "Menulis kode bukan hanya membuat fitur berjalan, tetapi membangun sistem yang dapat berkembang dan dipelihara dalam jangka panjang."
