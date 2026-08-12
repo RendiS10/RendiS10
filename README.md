@@ -112,6 +112,15 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 - Keamanan dipikirkan sejak desain, bukan ditambal di akhir
 - Pengujian dan validasi sebelum masuk produksi (local -> staging -> production -> monitoring)
 
+## 🌱 Fokus & Eksplorasi Saat Ini
+
+- Terus mendalami arsitektur **Microservices** dan teknik skalabilitas tingkat lanjut.
+- Mengeksplorasi tren terbaru dalam ekosistem **Frontend** dan **Mobile Development** untuk menghadirkan antarmuka pengguna yang semakin responsif dan interaktif.
+
+## 📫 Mari Terhubung
+
+Saya selalu terbuka untuk berdiskusi mengenai teknologi, merancang arsitektur sistem, atau menjajaki peluang karier dan kolaborasi baru. Jangan ragu untuk menyapa saya melalui **[LinkedIn](https://www.linkedin.com/in/rendi-sutendi-813a90270)** atau media profesional lainnya!
+
 ---
 
 <p align="center">
