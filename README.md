@@ -99,6 +99,13 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 
 
 
+## ⚙️ Metodologi & Manajemen Proyek
+
+- **Software Development Life Cycle (SDLC)**: Berpengalaman dalam mengawal siklus pengembangan perangkat lunak secara *end-to-end*, mulai dari tahap pengumpulan kebutuhan (*requirements gathering*), desain arsitektur, implementasi, pengujian, hingga fase *deployment* dan *maintenance*.
+- **Agile & Scrum Framework**: Mampu beradaptasi secara efektif dengan metodologi iteratif pada proyek dinamis yang menuntut fleksibilitas, kolaborasi tim yang kuat, dan pengiriman fitur (*delivery*) yang cepat secara berkala.
+- **System Analysis & Design**: Menerapkan praktik pemodelan sistem terstruktur berbasis *Unified Modeling Language* (UML)—mencakup *Use Case*, *Activity*, dan *Sequence Diagram*—serta merancang skema relasi data melalui *Entity-Relationship Diagram* (ERD) guna menjamin skalabilitas dan integritas arsitektur sebelum fase penulisan kode dimulai.
+- **Data Structures & Algorithmic Thinking**: Memiliki fondasi komputasi yang kuat untuk memecahkan masalah berskala besar (*problem-solving*). Berpengalaman mengimplementasikan beragam teknik algoritma (seperti *Sorting*, *Searching*, *Dynamic Programming*, hingga *Graph Traversal*) dan struktur data yang tepat sasaran—termasuk mekanisme antrean *FIFO/LIFO* menggunakan BullMQ, implementasi *Tree/Graph* pada relasi data kompleks, hingga strategi *caching* tingkat lanjut menggunakan Redis guna mengoptimalkan waktu respons (*latency*).
+
 ## 💡 Prinsip Pengembangan
 
 - Mengutamakan kejelasan dan maintainability di atas kompleksitas
