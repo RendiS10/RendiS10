@@ -14,14 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=RendiS10&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views"/>
 </p>
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 **Software Engineer & Developer** yang berfokus dalam merancang dan mengembangkan ekosistem aplikasi **web, mobile, serta backend API**. Saya memiliki kepekaan terhadap penerapan arsitektur yang bersih (*clean architecture*), keamanan sistem sejak tahap perancangan (*secure by design*), dan penulisan kode yang tangguh serta mudah dipelihara (*maintainable code*).
 
 Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berfungsi dengan benar, melainkan juga harus dirancang agar mudah diuji (*testable*), memiliki skalabilitas yang baik (*scalable*), dan siap beradaptasi seiring dengan dinamika pertumbuhan bisnis.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -99,25 +99,25 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 
 
 
-## ⚙️ Metodologi & Manajemen Proyek
+## Metodologi & Manajemen Proyek
 
 - **Software Development Life Cycle (SDLC)**: Berpengalaman dalam mengawal siklus pengembangan perangkat lunak secara *end-to-end*, mulai dari tahap pengumpulan kebutuhan (*requirements gathering*), desain arsitektur, implementasi, pengujian, hingga fase *deployment* dan *maintenance*.
 - **Agile & Scrum Framework**: Mampu beradaptasi secara efektif dengan metodologi iteratif pada proyek dinamis yang menuntut fleksibilitas, kolaborasi tim yang kuat, dan pengiriman fitur (*delivery*) yang cepat secara berkala.
 - **System Analysis & Design**: Menerapkan praktik pemodelan sistem terstruktur berbasis *Unified Modeling Language* (UML)—mencakup *Use Case*, *Activity*, dan *Sequence Diagram*—serta merancang skema relasi data melalui *Entity-Relationship Diagram* (ERD) guna menjamin skalabilitas dan integritas arsitektur sebelum fase penulisan kode dimulai.
 - **Data Structures & Algorithmic Thinking**: Memiliki fondasi komputasi yang kuat untuk memecahkan masalah berskala besar (*problem-solving*). Berpengalaman mengimplementasikan beragam teknik algoritma (seperti *Sorting*, *Searching*, *Dynamic Programming*, hingga *Graph Traversal*) dan struktur data yang tepat sasaran—termasuk mekanisme antrean *FIFO/LIFO* menggunakan BullMQ, implementasi *Tree/Graph* pada relasi data kompleks, hingga strategi *caching* tingkat lanjut menggunakan Redis guna mengoptimalkan waktu respons (*latency*).
 
-## 💡 Prinsip Pengembangan
+## Prinsip Pengembangan
 
 - Mengutamakan kejelasan dan maintainability di atas kompleksitas
 - Keamanan dipikirkan sejak desain, bukan ditambal di akhir
 - Pengujian dan validasi sebelum masuk produksi (local -> staging -> production -> monitoring)
 
-## 🌱 Fokus & Eksplorasi Saat Ini
+## Fokus & Eksplorasi Saat Ini
 
 - Terus mendalami arsitektur **Microservices** dan teknik skalabilitas tingkat lanjut.
 - Mengeksplorasi tren terbaru dalam ekosistem **Frontend** dan **Mobile Development** untuk menghadirkan antarmuka pengguna yang semakin responsif dan interaktif.
 
-## 📫 Mari Terhubung
+## Mari Terhubung
 
 Saya selalu terbuka untuk berdiskusi mengenai teknologi, merancang arsitektur sistem, atau menjajaki peluang karier dan kolaborasi baru. Jangan ragu untuk menyapa saya melalui **[LinkedIn](https://www.linkedin.com/in/rendi-sutendi-813a90270)** atau media profesional lainnya!
 
