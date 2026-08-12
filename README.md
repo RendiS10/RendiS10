@@ -15,8 +15,7 @@
 </p>
 
 ## 👨‍💻 Tentang Saya
-
-Saya adalah seorang **Software Engineer & Developer** yang berfokus dalam merancang dan mengembangkan ekosistem aplikasi **web, mobile, serta backend API**. Saya memiliki komitmen kuat terhadap penerapan arsitektur yang bersih (*clean architecture*), keamanan sistem sejak tahap perancangan (*secure by design*), dan penulisan kode yang tangguh serta mudah dipelihara (*maintainable code*).
+**Software Engineer & Developer** yang berfokus dalam merancang dan mengembangkan ekosistem aplikasi **web, mobile, serta backend API**. Saya memiliki kepekaan terhadap penerapan arsitektur yang bersih (*clean architecture*), keamanan sistem sejak tahap perancangan (*secure by design*), dan penulisan kode yang tangguh serta mudah dipelihara (*maintainable code*).
 
 Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berfungsi dengan benar, melainkan juga harus dirancang agar mudah diuji (*testable*), memiliki skalabilitas yang baik (*scalable*), dan siap beradaptasi seiring dengan dinamika pertumbuhan bisnis.
 
@@ -90,8 +89,7 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 
 - Mengutamakan kejelasan dan maintainability di atas kompleksitas
 - Keamanan dipikirkan sejak desain, bukan ditambal di akhir
-- Pengujian dan validasi sebelum masuk produksi
-- Berorientasi pada skalabilitas dan keberlanjutan jangka panjang
+- Pengujian dan validasi sebelum masuk produksi (local -> staging -> production -> monitoring)
 
 ---
 
