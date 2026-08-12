@@ -103,8 +103,9 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- Contribution Snake (Temporarily disabled due to GitHub Actions billing lock)
 <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RendiS10/RendiS10/output/github-contribution-grid-snake-dark.svg" />
+-->
 
 </div>
 
