@@ -84,30 +84,7 @@ Saya memegang prinsip bahwa perangkat lunak yang unggul bukan hanya sekadar berf
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Streak -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=RendiS10&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="RendiS10's streak" />
-
-<br/>
-
-<!-- Stats + Top languages -->
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="RendiS10's GitHub stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake (Temporarily disabled due to GitHub Actions billing lock)
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/RendiS10/RendiS10/output/github-contribution-grid-snake-dark.svg" />
--->
-
-</div>
 
 ## 💡 Prinsip Pengembangan
 
