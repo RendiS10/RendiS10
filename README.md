@@ -21,14 +21,6 @@ Passionate Software Engineer specializing in designing scalable full-stack archi
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&rank_icon=github" alt="Rendi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
 <p align="center">
   <i>Open for Software Engineer, Full-Stack Developer, and Mobile Engineering opportunities.</i>
 </p>
