@@ -1,26 +1,47 @@
-# Hi there, I'm Rendi Sutendi 👋
-### Software Engineer | Full-Stack & Mobile Systems
+<div align="center">
 
-Passionate Software Engineer specializing in designing scalable full-stack architectures, high-concurrency background processing, and secure-by-design systems. Experienced in architecting end-to-end web platforms, RESTful APIs, and cross-platform mobile solutions with strict adherence to Clean Architecture.
+# Rendi Sutendi
+### Full-Stack & Mobile Software Engineer
 
-📍 Bandung, Indonesia | 🌐 [rendisutendi.id](https://rendisutendi.id/) | 💼 [LinkedIn](https://linkedin.com/in/rendisutendi) | ✉️ Contact via LinkedIn
+[![Website](https://img.shields.io/badge/Website-rendisutendi.id-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rendisutendi.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rendi_Sutendi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendi-sutendi-813a90270)
+[![Email](https://img.shields.io/badge/Email-rendisutendi10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendisutendi10@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF_CV-1b4332?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rendisutendi.id/CV_Rendi_Sutendi_Software_Engineer.pdf)
+
+<p align="center">
+  Specializing in scalable full-stack architectures, asynchronous job queues (BullMQ + Redis), enterprise Accurate Online ERP sync, and 60fps Flutter Clean Architecture applications.
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Technical Ecosystem
+### 💻 Tech Stack & Tooling
 
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES6+), Dart, PHP, SQL |
-| **Frontend & UI** | Next.js (App Router, Server Actions), React 19, Tailwind CSS v4, TanStack Query, Zustand |
-| **Mobile Development**| Flutter (Clean Architecture, Feature-First), Riverpod, Dio, Secure Storage, Freezed |
-| **Backend & APIs** | Node.js, Express.js, NestJS, AdonisJS, Laravel, RESTful APIs, Socket.IO |
-| **Data & Storage** | PostgreSQL, MySQL, Redis (Caching & Job Queues), Prisma ORM, Eloquent |
-| **DevOps & Architecture** | Docker, Nginx, BullMQ Worker, Linux/VPS, CI/CD, Git, MVC, RBAC |
-| **Testing & Quality** | Cypress (E2E), Playwright, Mocha, Chai, Supertest |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,php,nextjs,react,tailwind,flutter,nodejs,nestjs,laravel,postgres,mysql,redis,docker,linux,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RendiS10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Rendi's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendiS10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
+</div>
+
+---
+
+### 🚀 Key Production Systems
+
+* **[HolyCat Omnichannel E-Commerce](https://shop.holycatlabs.com/)**: Next.js 16 SSR + Redis BullMQ + Midtrans Webhooks + Accurate ERP Sync + MPS Barcode Scanner ERP.
+* **[Abby & Gail Skincare B2B](https://abbyandgail.com/)**: Next.js 15 App Router + Adonis.js v6 + 30+ PostgreSQL tables + Lucid ORM + Ant Design CMS.
+* **HolyCat Mobile App**: Flutter Clean Architecture + Riverpod 2.x + Posyancing & KTP Kucing QR verification.
+* **Dinas Cipta Bintar Kota Bandung**: Spatial Planning REST API (NestJS & TypeScript) + 40% MySQL indexing optimization.
 
 ---
 
 <p align="center">
-  <i>Open for Software Engineer, Full-Stack Developer, and Mobile Engineering opportunities.</i>
+  <i>📍 Bandung, Indonesia • Open for Full-Stack, Backend & Mobile Engineering Opportunities.</i>
 </p>
