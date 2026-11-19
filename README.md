@@ -37,7 +37,6 @@
 
 * **[HolyCat Omnichannel E-Commerce](https://shop.holycatlabs.com/)**: Next.js 16 SSR + Redis BullMQ + Midtrans Webhooks + Accurate ERP Sync + MPS Barcode Scanner ERP.
 * **[Abby & Gail Skincare B2B](https://abbyandgail.com/)**: Next.js 15 App Router + Adonis.js v6 + 30+ PostgreSQL tables + Lucid ORM + Ant Design CMS.
-* **HolyCat Mobile App**: Flutter Clean Architecture + Riverpod 2.x + Posyancing & KTP Kucing QR verification.
 * **Dinas Cipta Bintar Kota Bandung**: Spatial Planning REST API (NestJS & TypeScript) + 40% MySQL indexing optimization.
 
 ---
